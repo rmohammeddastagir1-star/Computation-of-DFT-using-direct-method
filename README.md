@@ -9,7 +9,7 @@ PC installed with SCILAB
 clc; 
 clear; 
 
-xn = [1 2 3 4 4 3 2 1]; 
+xn = [1 4 1 4 1 4 1 4]; 
 
 n1 = 0:1:length(xn)-1; 
 subplot(3,1,1); 
